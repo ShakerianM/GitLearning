@@ -12,6 +12,6 @@ class Student():
 
         
 st1 = Student(81077)
-st1.add_course("chem", "bio")
+st1.add_course("chem")
 print(st1)
 
