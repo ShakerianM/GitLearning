@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
 def main():
-    pass
+    return 'Google git'
 
-main()
+print(main())
