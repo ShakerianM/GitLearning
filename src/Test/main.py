@@ -1,3 +1,4 @@
+#! usr/bin/python
 #Learning
 class Student():
     def __init__(self,std_id):
