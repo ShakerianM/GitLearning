@@ -1,4 +1,4 @@
-#! usr/bin/python
+#!/usr/bin/python3
 #Learning
 class Student():
     def __init__(self,std_id):
