@@ -1,3 +1,3 @@
 # GitLearning
 Introduction to GitHub Learning
-Google course
+course offered by google
